@@ -1,5 +1,5 @@
 # Simple-Calculator
-Just a Simple Calculator Made with C
+Nothing Crazy just a Simple Calculator Made with C
 
 It can perform :- #Addition
                   #Subtraction
