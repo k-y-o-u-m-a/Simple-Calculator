@@ -34,7 +34,7 @@ void main()
 		printf("=%d", a * b);
 		break;
 	case '/':
-		printf("=%d", (float)a / b);
+		printf("=%f", (float)a / b);
 		break;
 	default:
 		clrscr();
